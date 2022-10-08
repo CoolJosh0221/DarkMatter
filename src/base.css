@@ -16,7 +16,7 @@ button {
 /* Root Variables */
 
 :root {
-	--primary-font-face: 'Karla'
+	--primary-font-face: 'Karla';
 	--font-primary: var(--primary-font-face), sans-serif;
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
